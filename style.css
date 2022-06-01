@@ -109,13 +109,14 @@ footer *{
 
 footer .footer_container{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
   flex-direction: row;
 }
 
 footer .footer_container .sec{
   margin-right: 30px;
+  margin-left: 150px;
 }
 
 footer .footer_container .sec.aboutus{
